@@ -1,7 +1,7 @@
 # 23-2_DSL_Modeling_each_team_project_name
 ---
 ## 주제
-## Team A 팀장 팀원 팀원 팀원
+## Team A 신소연(팀장) 김현동 임창재 조세린
 ---
 # Overview
 [발표자료](팀별/깃허브_내_발표자료_주소)
