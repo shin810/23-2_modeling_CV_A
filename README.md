@@ -34,7 +34,6 @@ modeling_CV_A_발표자료.pdf
 
 ## 3. Dataset
 https://drive.google.com/file/d/1YWcX5sHgdAWZgI7sthmgAP5wQO_Z_1u1/view?usp=drive_link
-## 4. ...필요하면 추가로 쓰기
 
 # Result
 ## 1. Final Output
@@ -63,10 +62,10 @@ python run.py --config configs.txt
 ```
 
 # File description
-- main (실제 구동하는 파일)
-  - ```main.py```  
-- model (모델 내부 구조 파일)
-  - ```encoder.py```
-  - ```decoder.py```
-- data (사용한 데이터 or 데이터 생성 파일)
-(예시입니다! 각 팀의 프로젝트 파일 구조에 따라 자유롭게 완성해주세요)
+- ```train.py```
+- ```val.py```
+- ```detect.py```
+- train.zip / test.zip / valid.zip
+  : train / test / valid 이미지 데이터셋
+- ```data.yaml```
+- dataset: https://drive.google.com/open?id=1CDNNu1fjAoXkcsULOithIQEZSigQ4dlx&usp=drive_copy 에서 다운 가능
