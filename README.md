@@ -54,11 +54,8 @@ https://drive.google.com/file/d/1YWcX5sHgdAWZgI7sthmgAP5wQO_Z_1u1/view?usp=drive
 
 # End-to-End
 ```
-!pip install ultralytics
-(ex)
 
-```ruby
-python run.py --config configs.txt
+
 ```
 
 # File description
