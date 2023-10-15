@@ -4,7 +4,7 @@
 ## Team A 신소연(팀장) 김현동 임창재 조세린
 ---
 # Overview
-[발표자료](팀별/깃허브_내_발표자료_주소)
+modeling_CV_A_발표자료.pdf
 ## 1. Overall Pipeline
 ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/2736dbc2-a85b-4dc9-9175-56bf8346b5d8)
 
