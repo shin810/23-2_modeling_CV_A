@@ -25,8 +25,6 @@ modeling_CV_A_발표자료.pdf
    - 직접 데이터를 수집 및 라벨링 작업 진행
    - Data Augmentation 진행
 
-
-     
 **4. Model**
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/d14343c0-27c9-4715-9117-56bbce40555e) 
    - 모델: YOLO v5m
