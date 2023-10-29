@@ -4,7 +4,6 @@
 YOLO v5m을 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로
 ## Team A
 신소연(팀장) 김현동 임창재 조세린
----
 # Overview
 modeling_CV_A_발표자료.pdf
 
