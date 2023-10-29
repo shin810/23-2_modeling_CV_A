@@ -5,7 +5,7 @@ YOLO v5m을 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부
 ## Team A
 신소연(팀장) 김현동 임창재 조세린
 # Overview
-modeling_CV_A_발표자료.pdf
+https://github.com/shin810/23-2_modeling_CV_A/blob/d4c9920940e0d61148610db6ae73cf68c8f1e100/modeling_CV_A_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf
 
 ## 1. Overall Pipeline
 ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/2736dbc2-a85b-4dc9-9175-56bf8346b5d8)
@@ -79,9 +79,9 @@ python train.py --img 640 --batch 16 --epochs 100 --data {data_yaml} --weights {
 
 # File description
 - ```train.py```
-- ```val.py```
 - ```detect.py```
-- train.zip / test.zip / valid.zip
-  : train / test / valid 이미지 데이터셋
+- ```val.py```
+- ```requirements.txt```
 - ```data.yaml```
-- dataset: https://drive.google.com/open?id=1CDNNu1fjAoXkcsULOithIQEZSigQ4dlx&usp=drive_copy 에서 다운 가능
+- **dataset**: https://drive.google.com/open?id=1CDNNu1fjAoXkcsULOithIQEZSigQ4dlx&usp=drive_copy 에서 다운 가능
+  train.zip / test.zip / valid.zip
