@@ -15,19 +15,23 @@ modeling_CV_A_발표자료.pdf
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/aae3fe68-8f4c-4ce1-bea8-c92706fd3f74)
    - 일반 플라스틱과 페트병의 분리수거 배출 기준이 다름
    - 이를 구분해주는 모델의 필요성을 느낌
+     
 **2. Data Detail**
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/c5087846-e49a-4d7d-878a-e13534e5ddfa)
    - 유색/라벨 유무로 총 4개의 클래스 생성
+     
 **3. Data Preprocessing**
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/56d2598c-edc5-4d00-9dc9-abe6fa7e17de)
    - 직접 데이터를 수집 및 라벨링 작업 진행
    - Data Augmentation 진행
+     
 **4. Model**
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/d14343c0-27c9-4715-9117-56bbce40555e) 
    - 모델: YOLO v5m
    - 선정이유: 높은 정확도, 경량화 모델, 빠른 속도의 탐지
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/b7a1cb25-01f7-47c5-aabd-0ed8b2c909cf)
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/4bc0411a-9bbd-4336-a084-a9f4b90d1520)
+
 1. 입력 이미지 확인
 2. S*S 그리드로 분할
 3. 각 그리드마다 이미지 분류 및 Localize
