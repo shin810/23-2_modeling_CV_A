@@ -59,10 +59,23 @@ https://drive.google.com/file/d/1YWcX5sHgdAWZgI7sthmgAP5wQO_Z_1u1/view?usp=drive
 - Segmentation으로의 확장
 
 # End-to-End
+
+## How To run
+1. Clone the repository
+```
+git clone https://github.com/ultralytics/yolov5
 ```
 
-
+2. Install pytorch and other dependencies
 ```
+pip install -r requirements.txt
+```
+
+3. Run with options -For example,
+```
+python train.py --img 640 --batch 16 --epochs 100 --data {data_yaml} --weights {pretrained} --cache
+```
+
 
 # File description
 - ```train.py```
