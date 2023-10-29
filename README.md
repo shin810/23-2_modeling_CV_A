@@ -1,10 +1,13 @@
 # 23-2_DSL_Modeling_CV_A
 ---
-## YOLO v5m을 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로
-## Team A 신소연(팀장) 김현동 임창재 조세린
+## 주제
+YOLO v5m을 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로
+## Team A
+신소연(팀장) 김현동 임창재 조세린
 ---
 # Overview
 modeling_CV_A_발표자료.pdf
+
 ## 1. Overall Pipeline
 ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/2736dbc2-a85b-4dc9-9175-56bf8346b5d8)
 
