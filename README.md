@@ -24,6 +24,7 @@ modeling_CV_A_발표자료.pdf
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/56d2598c-edc5-4d00-9dc9-abe6fa7e17de)
    - 직접 데이터를 수집 및 라벨링 작업 진행
    - Data Augmentation 진행
+
      
 **4. Model**
    ![image](https://github.com/shin810/23-2_modeling_CV_A/assets/98678786/d14343c0-27c9-4715-9117-56bbce40555e) 
